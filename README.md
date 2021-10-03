@@ -1,5 +1,5 @@
 # Rotating Navigation
 
-![Imgur](https://i.imgur.com/kyuLMfo.jpg)
+![Imgur](preview/rotating-navigation-preview-1.jpg)
 
-![Imgur](https://i.imgur.com/GeslRGD.jpg)
+![Imgur](preview/rotating-navigation-preview-2.jpg)
